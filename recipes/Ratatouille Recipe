@@ -1,2 +1,87 @@
 <main>
-
+<h1> Ratatouille</h1>
+<img src="https://media.travelmag.vn/files/content/2021/10/11/ratatouille-1-10491212.jpg" alt="Ratatouille Recipe">
+ <figcaption> Ratouille</figcaption>
+  <p> Ratatouille is a traditional French dish that has the perfect mix of vegetables, herbs, and spices.This dish has been popularized by the Pixar film Ratatouille.The ingredients are mixed in a pot with olive oil and garlic before being served up on top of spaghetti or rice as the main course.
+But what does ratatouille taste like? To find out more about this recipe for easy weeknight dinners at home, keep reading.</p>
+  <div><h2><u> Ingredients</u></h2>
+  <ul>
+    <li> 1 (6 ounce) can tomato paste </li>
+    <li> 1/2 onion, chopped</li>
+    <li> 1/4 cup minced garlic</li>
+    <li> 1 tablespoon of olive oil</li>
+    <li> 3/4 cup of water</li>
+    <li> Salt and ground black pepper to taste </li>
+    <li> 1 small eggplant, trimmed and very thinly sliced</li>
+    <li> 1 zucchini, trimmed and very thinly sliced</li>
+    <li> 1 yellow squash, trimmed and very thinly sliced</li>
+    <li> 1 red bell pepper, trimmed and very thinly sliced</li>
+    <li> 1 yellow bell pepper, trimmed and very thinly sliced</li>
+    <li> 3 tablespoon olive oil, or to taste</li>
+    <li> 1 teaspoon fresh thyme leaves, or to taste</li>
+    <li> 3 tablessppon Mascarpone cheese</li>
+  </ul>
+    <h3> <u>Directions</u></h3>
+  <ol>
+    <li><u> Step 1:</u> </br>
+  Preheat the oven to 375 degrees F (190 degrees C).</li>
+  <li> <u>Step 2:</u> </br>
+Spread tomato paste into the bottom of a 10x10-inch baking dish. Sprinkle with onion and garlic and stir in 1 tablespoon olive oil and water until thoroughly combined. Season with salt and black pepper.</li>
+<li><u> Step 3:</u> </br>
+Arrange alternating slices of eggplant, zucchini, yellow squash, red bell pepper, and yellow bell pepper, starting at the outer edge of the dish and working concentrically towards the center. Overlap the slices a little to display the colors. Drizzle the vegetables with 3 tablespoons olive oil and season with salt and black pepper. Sprinkle with thyme leaves. Cover vegetables with a piece of parchment paper cut to fit inside.</li>
+<li><u> Step 4: </u></br>
+Bake in the preheated oven until vegetables are roasted and tender, about 45 minutes. Serve with dollops of mascarpone cheese.</li>
+</ol>
+</div>
+<h4> <strong> <u>Nutrition Facts </u></strong> </h4>
+<h5><u>Per serving:</u> 275 calories; protein 5.7g; carbohydrates 25g; fat 19.1g; cholesterol 13.1mg; sodium 353mg. <a target ="blank" href="https://recipes.sparkpeople.com/recipe-calories.asp?recipe=8979"> Full Nutritions</a>
+</h5>
+<style>
+  h1{ 
+  text-align: center;
+  font-size: 45px;
+  border-style: solid;
+  border-width: 10px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 600px; 
+  margin-right: 600px;
+    border-color:#ff0000;
+  }
+  img{
+    display: block;
+     margin-left: auto;
+  margin-right: auto;
+    max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  }
+  figcaption{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 25px;
+    text-transform: uppercase;
+    text-decoration: underline;
+  }
+   p{
+    font-size: 25px;
+     margin: 25px 15px 15px 25px;
+}
+  div{
+    text-align: left;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  h4{
+    margin-top: 28px;
+    text-align: center;
+    font-size: 23px;
+  }
+  h5{
+    text-align: center;
+    font-size: 20px;
+  }
+</style>
+</main>
