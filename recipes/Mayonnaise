@@ -1,1 +1,58 @@
-
+<main>
+<h1> Mayonnanise </h1>
+<hr>
+<h2> Mayonnaise can seem so difficult to make and yet becomes so easy once you are fully aware of the tips and tricks and the different steps. Homemade mayonnaise is so tasty. You’ll
+  never be able to eat that industrial stuff once you’ve tasted it!</h2>
+<img src="https://www.myparisiankitchen.com/wp-content/uploads/2018/11/Mayonnaise_01_500-Copie.jpg" alt="mayonnaise">
+<h3>Mayonnaise is the result of quite a complex chemical reaction. The egg yolk and mustard’s molecules have physical properties that can capture oil and enable all ingredients, even water, to link together to create a smooth mixture.</h3>
+  <h4> <u>Ingredients</u>
+<ul>
+  <li> 1 egg yolk <i> at room temperature</i></li>
+  <li> 1 teaspoon of mustard <i> ideally French Dijon Mustard</i></li>
+  <li> 1 cup of oil <i> ideally rapeseed oil, if not sunflower oil</i></li>
+  <li> salt and pepper</li> 
+    </ul></h4>
+  <h5> <u> Directions</u> 
+<ol>
+  <li> In a round bottom bowl, first mix the egg yolk and the mustard. Add salt and pepper.</li>
+  <li> Then gradually pour the oil in a very thin and regular dash and keep stirring vigorously with a whisk. Make sure you don't drop the oil</li>
+  <li> too quickly - if so stop adding oil and stir even more vigurously to incorporate the excess of oil - and don't stop stirring and pouring oil until you don't get a smooth aerated texture.</li>
+    </ol></h5>
+  <h6><i> Bon Appetit!</i></h6>
+<style>
+  h1{
+    text-align: center;
+    font-size: 60px;
+    text-transform: uppercase;
+  }
+  hr{
+    width:25%;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    border: 2px solid grey;
+  }
+  h2{
+    text-align: center;
+     }
+  img{
+    display: block; 
+     max-width: 100%;
+    height: auto;
+  margin: 0 auto;
+  }
+  h3{
+    text-align: center;
+  }
+ h4 {
+    font-size: 18px;
+  }
+  h5{
+    font-size: 18px;
+  }
+  h6{
+    font-size: 34px;
+        text-align: center;
+    text-decoration: underline;
+  }
+  </style>
+</main>
