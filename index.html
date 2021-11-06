@@ -3,9 +3,46 @@
   <head>
     <meta charset="UTF-8">
   </head>
-  <h1> BlainBlue's Cook Book </h1>
-  <img src="https://c.tenor.com/LLLJYVQJNVAAAAAC/chefs-kiss-french-chef.gif" alt="Cheft kiss">
-  <h2> The best cookbook of all time!</h2>
-<ul>
-  <li> <a target="blank" href="https://github.com/BlainBlue/odin_recipes/blob/191d3576db33f442bb6c88061b3a1e68006d2809/recipes/Ratatouille%20Recipe"> Ratatouille recipe</li>
-    
+   <h1> BlainBlue's Cook Book </h1>
+<div id="row">
+  <figure>
+  <img class="column" src="https://tipbuzz.com/wp-content/uploads/Lemon-Panna-Cotta.jpg" alt="panna cotta">
+ <br>
+  <figcaption><a class="text" href="https://github.com/BlainBlue/odin_recipes/blob/main/recipes/Lemon%20Panna%20Cotta%20recipe" target="_blank">PannaCotta recipe</a></figcaption>
+  <img class="column" src="https://media.travelmag.vn/files/content/2021/10/11/ratatouille-1-10491212.jpg" alt="Ratatouille">
+    <figcaption><a class="text" href="https://github.com/BlainBlue/odin_recipes/blob/main/recipes/Ratatouille%20Recipe" target="_blank">Ratatouille recipe</a></figcaption> 
+  <img class="column" src="https://www.myparisiankitchen.com/wp-content/uploads/2018/11/Mayonnaise_01_500-Copie.jpg" alt="mayonnaise">
+  <figcaption><a class="text" href="https://github.com/BlainBlue/odin_recipes/blob/main/recipes/Mayonnaise" target="_blank">Mayonnaise recipe</a></figcaption>
+  </figure>
+</div>
+<style>
+  h1{
+    text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline 2px red;}
+    img{
+      display:block;
+    }
+  }
+  #row{
+    display:flex;
+  }
+  .column{
+    flex: 33.33%;
+  padding: 5px;
+    width:400px;
+    margin: 0 auto;
+  }
+figcaption{
+    text-align: center;
+  font-size:25px;
+  margin: 15px;
+    }
+   body{
+    border-radius: 35px;
+    border: 2px solid black;
+    padding: 15px;
+   background-image: linear-gradient(white,grey);
+    }
+</style>
+</main>
