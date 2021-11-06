@@ -1,4 +1,82 @@
+<head> 
+  <meta charset="UTF-8">
+</head>
 <main>
-<h1> Lemon Panna Cotta recipe</h1>
+<h1> <span style="color:yellow">Lemon</span> Panna Cotta </h1>
+  <hr>
 <h2>Lemon Panna Cotta is a show-stopper that’s creamy and smooth with refreshing lemon accents. An easy, make-ahead dessert you can make year-round for a party or just a casual weeknight dinner with no baking required!</h2>
-<img src="https://10play.com.au/ip/s3/2019/06/14/8eb87c1b20b1582bfb19ae99e38777de-336029.jpg?image-profile=image_max&io=landscape
+  <body>
+<img src="https://tipbuzz.com/wp-content/uploads/Lemon-Panna-Cotta.jpg" alt="Panna Cotta">
+  <h3><u>Ingredients</u></h3>
+     <b><input type="checkbox" id="ingre1" value="lemon juices">
+  <label for="ingre1">2 tablespoons freshly squeezed lemon juices</label><br>
+  <input type="checkbox" id="ingre2" value="gelatin">
+    <lable for="ingre2" class="checkbox1"> 1(.25 ounce) package powdered gelatin(such as Knor)</lable><br>
+  <input type="checkbox" id="ingre3" value="heavy cream">
+    <label for="ingre3"> 3 cups heavy cream</label><br>
+  <input type="checkbox" id="ingre4" value="sugar">
+  <label for="ingre4"> 1/2 cup white sugar</label></br>
+<input type="checkbox" id="ingre5" value="lemon zest">
+    <label for="ingre5"> 2 1/2 tablespoons fresh lemon zest, divied</label><br>
+<input type="checkbox" id="ingre6" value="orange liquer">
+    <label for="ingre6"> 1 tablespoon orange liquer( such as Grand Marnier)(Optional)</label><br></b>
+<br>
+<form action="https://www.amazon.com/">
+<button type="Add">ADD ALL INGREDIENTS TO SHOPPING LIST &#10004; </button>
+</form>
+  <h4><u> Directions </u><h4>
+    <ol>
+      <li>
+        Place lemon juice in a small bowl and sprinkle the unflavored gelatin over it. Let stand for about<br> 15 minutes until gelatin softens.
+      </li>
+      <li> 
+        Combine heavy cream, sugar, and 2 tablespoons lemon zest in a saucepan over medium-low heat<br> bring to a simmer. Whisk in gelatin mixture until dissolved. Remove from heat and stir in orange liqueur.</li>
+      <li>
+        Strain the cream mixture into a medium bowl and divide evenly among small glass bowls or ramekins.</li>
+      <li>
+        Place uncovered panna cottas into the refrigerator until set, at least 4 hours. If time permits, cover the bowls<br> with plastic wrap and chill overnight.</li>
+        <li>
+          Garnish with remaining lemon zest before serving.</li></ol>
+    <h3> <b><u> Notes</b></u> </h3>
+    <ul>
+    <li> To cool the panna cotta quickly, set the saucepan in a water bath of ice cubes and water, and stir slowly. It should cool down within approximately 10 minutes.</li></ul>
+    </body>
+    <style>
+      h1{
+        text-align:center;
+        text-transform: uppercase;
+        font-size: 80px;
+        
+      }
+      hr{
+        width: 40%;
+        background-color:#ff0000;
+        
+      }
+      h2{
+        text-align: center;
+        font-size: 30px;
+      }
+      img{
+        float: right;
+        width: 500px;
+     border: 1px solid black;
+        padding: 15px ;
+           }
+      body{
+        border-radius: 25px;
+        font-size: 20px;
+        border-radius: 35px;
+        border: 2px solid black;
+        padding: 15px;
+        background-image: linear-gradient(white,#ffff70);
+      }
+      h4{
+        font-size: 19px;
+      }
+      input[type="checkbox"]{
+        float:left;
+        margin-right: 10px;
+            }
+    </style>
+    </main>
