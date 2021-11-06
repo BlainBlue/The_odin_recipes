@@ -22,7 +22,7 @@
     <label for="ingre6"> 1 tablespoon orange liquer( such as Grand Marnier)(Optional)</label><br></b>
 <br>
 <form action="https://www.amazon.com/">
-<button type="Add">ADD ALL INGREDIENTS TO SHOPPING LIST &#10004; </button>
+  <button type="Add"><strong>ADD ALL INGREDIENTS TO SHOPPING LIST &#10004</strong> </button>
 </form>
   <h4><u> Directions </u><h4>
     <ol>
@@ -69,7 +69,7 @@
         border-radius: 35px;
         border: 2px solid black;
         padding: 15px;
-        background-image: linear-gradient(white,#ffff70);
+        background-image: linear-gradient(white,#FF7F50);
       }
       h4{
         font-size: 19px;
@@ -77,6 +77,11 @@
       input[type="checkbox"]{
         float:left;
         margin-right: 10px;
-            }
+                  }
+      button{
+        font-size:16px;
+        border: 2px solid #FF0000;
+        padding: 10px;
+      }
     </style>
     </main>
