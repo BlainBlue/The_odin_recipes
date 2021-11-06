@@ -1,4 +1,5 @@
 <main>
+<body>
 <h1> Mayonnanise </h1>
 <hr>
 <h2> Mayonnaise can seem so difficult to make and yet becomes so easy once you are fully aware of the tips and tricks and the different steps. Homemade mayonnaise is so tasty. You’ll
@@ -19,6 +20,7 @@
   <li> too quickly - if so stop adding oil and stir even more vigurously to incorporate the excess of oil - and don't stop stirring and pouring oil until you don't get a smooth aerated texture.</li>
     </ol></h5>
   <h6><i> Bon Appetit!</i></h6>
+  </body>
 <style>
   h1{
     text-align: center;
@@ -54,5 +56,8 @@
         text-align: center;
     text-decoration: underline;
   }
+  body{
+  border-radius: 35px;
+  border: 2px solid black;
   </style>
 </main>
